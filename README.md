@@ -6,4 +6,4 @@ test git diff
 
 1
 
-test git meger from orgin.
+test git meger from origin and copygit.
