@@ -5,3 +5,5 @@ Test change!
 test git diff
 
 1
+
+test git meger from copygit
